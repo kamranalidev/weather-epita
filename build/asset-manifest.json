@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/weather-epita/static/js/main.744d4697.js",
+    "index.html": "/weather-epita/index.html",
+    "main.744d4697.js.map": "/weather-epita/static/js/main.744d4697.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.744d4697.js"
+  ]
+}
